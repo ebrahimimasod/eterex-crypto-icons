@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 200 200">
+      <image width="200" height="200" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAYAAACtWK6eAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKpSURBVHhe7d1BShxBGIDRGoUQyCkUcpAcQCWn8AaKO3fBrHONEMh1AkIgEAiE7MVREQpX5gOZWQz2e5v+q3cN/VG9KXp1dHB2P4Bn7c0r8AyBQBAIBIFAEAgEgUAQCASBQBAIBIFAEAgEgUAQCASBQBAIBIFAEAgEgUAQCASBQBAIBIFAEAgEgUAQCASBQBAIBIFAEAgEgUAQCASBQBAIBIFAEAgEgUAQCASBQBAIBIFAEAgEgUAQCASBQBAIBIFAEAgEgUAQCASBQFgdHZzdz3kRvl9fzWlzx4fnc9pt23zm9fpufHx/MVevnx1kAR5f6m358+vfnJZBIBAEAkEgEAQCQSAQBAJBIBAEAkEgEAQCQSAQBAJBIBAEAkEgEAQCQSAQBAJBIBAEAkEgEAQCQSAQBAJBIBAEAkEgEAQCQSAQBAJBIBAEAkEgEAQCQSAQBAJBIBD8BpoX+f3z7zj98HmuXj87CASBQBAIBIFAEAgEgUAQCASBQBAIBIFAEAgEgUAQCASBQBAIBIFAEAgEgUBw5HYDXy6+jrfv3szVbrq9WY/Ty5Ox2lvNO5tZ2pFbgWzg+PB8Trvt249PY39/Ox8LzqQDTwQCQSAQBAJBIBAEAkEgEAQCQSAQBAJBIBAEAkEgEAQCQSAQBAJBIBAEAkEgEAQCQSAQBAJBIBAEAkEgEAQCQSAQBAJBIBAEAkEgEAQCQSAQBAJBIBAEAkEgEBb3l1t4CTsIBIFAEAgEgUAQCASBQBAIBIFAEAgEgUAQCASBQBAIBIFAEAgEgUAQCASBQBAIBIFAEAgEgUAQCASBQBAIBIFAEAgEgUAQCASBQBAIBIFAEAgEgUAQCASBQBAIBIFAEAgEgUAQCASBQBAIBIFAEAgEgUAQCASBQBAIBIFAEAj81xgPZG82kvVAno0AAAAASUVORK5CYII="/>
+    </pattern>
+  </defs>
+  <g id="Kava_Lend_-_HARD" data-name="Kava Lend - HARD" transform="translate(-2096 -632)">
+    <g id="Rectangle_6231" data-name="Rectangle 6231" transform="translate(2096 632)" fill="none" stroke="#4d2176" stroke-width="1">
+      <rect width="32" height="32" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="31" height="31" rx="7.5" fill="none"/>
+    </g>
+    <rect id="Image_119" data-name="Image 119" width="20" height="20" rx="4" transform="translate(2102 638)" fill="url(#pattern)"/>
+  </g>
+</svg>

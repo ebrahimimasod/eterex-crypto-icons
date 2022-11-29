@@ -1,0 +1,46 @@
+{
+  "name": "eterex-crypto-icons",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "Eterex Crypto Icons Contains more than 420 digital currency icons",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ebrahimimasod/eterex-crypto-icons"
+  },
+  "keywords": [
+    "masoud ebrahimi",
+    "eterex",
+    "vue",
+    "vite",
+    "digital currency icons",
+    "eterex",
+    "eterex-crypto-icons"
+  ],
+  "author": "Masoud Ebrahimi <ebrahimimasod@gmail.com>",
+  "license": "ISC",
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/eterex-crypto-icons.umd.js",
+  "module": "./dist/eterex-crypto-icons.es.js",
+  "exports": {
+    ".": {
+      "import": "./dist/eterex-crypto-icons.es.js",
+      "require": "./dist/eterex-crypto-icons.umd.js",
+      "style": "./dist/style.css"
+    }
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "path": "^0.12.7",
+    "vue": "^3.2.41"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.2.0",
+    "vite": "^3.2.3"
+  }
+}

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="SSV.NETWORK_-_SSV" data-name="SSV.NETWORK - SSV" transform="translate(-1074 -679)">
+    <g id="Rectangle_6231" data-name="Rectangle 6231" transform="translate(1074 679)" fill="none" stroke="#11669a" stroke-width="1">
+      <rect width="32" height="32" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="31" height="31" rx="7.5" fill="none"/>
+    </g>
+    <g id="Group_3439" data-name="Group 3439" transform="translate(-39.123 158.733)">
+      <path id="Polygon_10" data-name="Polygon 10" d="M2.711,1.015a1,1,0,0,1,1.579,0L6.522,3.886a1,1,0,0,1,0,1.228L4.289,7.985a1,1,0,0,1-1.579,0L.478,5.114a1,1,0,0,1,0-1.228Z" transform="translate(1130.623 530.267)" fill="#1ba5f8"/>
+      <path id="Polygon_14" data-name="Polygon 14" d="M2.711,1.015a1,1,0,0,1,1.579,0L6.522,3.886a1,1,0,0,1,0,1.228L4.289,7.985a1,1,0,0,1-1.579,0L.478,5.114a1,1,0,0,1,0-1.228Z" transform="translate(1120.623 530.267)" fill="#1ba5f8"/>
+      <path id="Polygon_15" data-name="Polygon 15" d="M2.711,1.015a1,1,0,0,1,1.579,0L6.522,3.886a1,1,0,0,1,0,1.228L4.289,7.985a1,1,0,0,1-1.579,0L.478,5.114a1,1,0,0,1,0-1.228Z" transform="translate(1125.623 525.267)" fill="#1ba5f8"/>
+      <path id="Polygon_16" data-name="Polygon 16" d="M2.711,1.015a1,1,0,0,1,1.579,0L6.522,3.886a1,1,0,0,1,0,1.228L4.289,7.985a1,1,0,0,1-1.579,0L.478,5.114a1,1,0,0,1,0-1.228Z" transform="translate(1125.623 538.267)" fill="#11669a"/>
+    </g>
+  </g>
+</svg>

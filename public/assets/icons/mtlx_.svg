@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="METTALEX_-_MTLX" data-name="METTALEX - MTLX" transform="translate(-1604 -1008)">
+    <g id="Rectangle_6231" data-name="Rectangle 6231" transform="translate(1604 1008)" fill="none" stroke="#3f34a7" stroke-width="1">
+      <rect width="32" height="32" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="31" height="31" rx="7.5" fill="none"/>
+    </g>
+    <g id="Group_3440" data-name="Group 3440" transform="translate(-28.5 3)">
+      <line id="Line_480" data-name="Line 480" y2="13" transform="translate(1640.5 1014.5)" fill="none" stroke="#3f34a7" stroke-width="1"/>
+      <line id="Line_481" data-name="Line 481" y2="13" transform="translate(1656.5 1014.5)" fill="none" stroke="#3f34a7" stroke-width="1"/>
+      <line id="Line_482" data-name="Line 482" y2="9" transform="translate(1654.5 1016.5)" fill="none" stroke="#3f34a7" stroke-width="1"/>
+      <line id="Line_483" data-name="Line 483" y2="9" transform="translate(1642.5 1016.5)" fill="none" stroke="#3f34a7" stroke-width="1"/>
+      <line id="Line_484" data-name="Line 484" y2="9" transform="translate(1644.5 1017.5)" fill="none" stroke="#3f34a7" stroke-width="1"/>
+      <line id="Line_485" data-name="Line 485" y2="9" transform="translate(1652.5 1017.5)" fill="none" stroke="#3f34a7" stroke-width="1"/>
+      <line id="Line_486" data-name="Line 486" y2="7" transform="translate(1650.5 1018.5)" fill="none" stroke="#3f34a7" stroke-width="1"/>
+      <line id="Line_487" data-name="Line 487" y2="7" transform="translate(1646.5 1018.5)" fill="none" stroke="#3f34a7" stroke-width="1"/>
+      <line id="Line_488" data-name="Line 488" y2="7" transform="translate(1648.5 1020.5)" fill="none" stroke="#3f34a7" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

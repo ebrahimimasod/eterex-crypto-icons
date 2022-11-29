@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="ETHEREUM_-_ETH" data-name="ETHEREUM - ETH" transform="translate(-1419 -492)">
+    <g id="Group_2971" data-name="Group 2971" transform="translate(1419 492)">
+      <g id="Rectangle_2252" data-name="Rectangle 2252" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="32" height="32" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="31" height="31" rx="7.5" fill="none"/>
+      </g>
+      <g id="surface1" transform="translate(7.351 3)">
+        <path id="Path_10" data-name="Path 10" d="M17.3,14.853l-8.649,3.2L0,14.853,8.649,0Zm0,0" fill="#707070"/>
+        <path id="Path_11" data-name="Path 11" d="M23.895,323.7l-8.272,9.678L7.352,323.7l8.272,3.063Zm0,0" transform="translate(-6.974 -307.061)" fill="#707070"/>
+        <path id="Path_12" data-name="Path 12" d="M168.281,326.762l8.272-3.063-8.272,9.678Zm0,0" transform="translate(-159.632 -307.061)" fill="#3e3e3e"/>
+        <path id="Path_13" data-name="Path 13" d="M176.93,14.853l-8.649,3.2V0Zm0,0" transform="translate(-159.632)" fill="#3e3e3e"/>
+      </g>
+    </g>
+  </g>
+</svg>

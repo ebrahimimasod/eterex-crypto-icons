@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 225 224">
+      <image width="225" height="224" xlink:href="data:image/png;base64,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"/>
+    </pattern>
+  </defs>
+  <g id="POA_NETWORK_-_POA" data-name="POA NETWORK - POA" transform="translate(-1604 -303)">
+    <g id="Rectangle_6231" data-name="Rectangle 6231" transform="translate(1604 303)" fill="none" stroke="#5b2da7" stroke-width="1">
+      <rect width="32" height="32" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="31" height="31" rx="7.5" fill="none"/>
+    </g>
+    <rect id="Image_85" data-name="Image 85" width="26" height="26" transform="translate(1607 306)" fill="url(#pattern)"/>
+  </g>
+</svg>
