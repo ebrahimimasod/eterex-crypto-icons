@@ -4,7 +4,9 @@ import CryptoIcon from "./components/CryptoIcon/index.vue"
 
 <template>
   <div>
-    <CryptoIcon name="btc" />
+    <CryptoIcon name="btc" :size="150" />
   </div>
 </template>
+
+
 

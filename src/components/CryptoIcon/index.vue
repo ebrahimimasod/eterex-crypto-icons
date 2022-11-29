@@ -28,5 +28,15 @@ const getIconPath = computed(() => `/assets/icons/${name}_.svg`);
 
 
 <style scoped>
+.c-crypto-icon{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.5s ease-in-out;
+}
 
+.c-crypto-icon:hover{
+  filter: drop-shadow(0px 0px 10px #2307DC);
+  transition: all 0.5s ease-in-out;
+}
 </style>
