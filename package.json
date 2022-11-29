@@ -1,6 +1,6 @@
 {
   "name": "eterex-crypto-icons",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "type": "module",
   "description": "Eterex Crypto Icons Contains more than 420 digital currency icons",
   "repository": {
@@ -14,7 +14,9 @@
     "vite",
     "digital currency icons",
     "eterex",
-    "eterex-crypto-icons"
+    "eterex-crypto-icons",
+    "crypto-icon",
+    "crypto"
   ],
   "author": "Masoud Ebrahimi <ebrahimimasod@gmail.com>",
   "license": "ISC",
@@ -26,11 +28,12 @@
   "exports": {
     ".": {
       "import": "./dist/eterex-crypto-icons.es.js",
-      "require": "./dist/eterex-crypto-icons.umd.js",
-      "style": "./dist/style.css"
-    }
+      "require": "./dist/eterex-crypto-icons.umd.js"
+    },
+    "./style": "./dist/style.css"
   },
   "scripts": {
+    "prepublishOnly": "npm run build",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
