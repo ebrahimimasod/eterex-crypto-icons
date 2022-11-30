@@ -36,14 +36,14 @@ name:
   {
    type: String,
    required: true,
-   description: Name of a digital currency like (btc,eth,usdt,...)
+   description: "Name of a digital currency like (btc,eth,usdt,...)"
   }
 
 size:
   {
    type: Number,
    default: 32,
-   description: Change width and height of icon togather with a number
+   description: "Set width and height of icon togather with a number"
   }
 ```
 
