@@ -1,6 +1,6 @@
 {
   "name": "eterex-crypto-icons",
-  "version": "0.0.4",
+  "version": "0.0.8",
   "type": "module",
   "description": "Eterex Crypto Icons Contains more than 420 digital currency icons",
   "repository": {
@@ -30,7 +30,7 @@
       "import": "./dist/eterex-crypto-icons.es.js",
       "require": "./dist/eterex-crypto-icons.umd.js"
     },
-    "./style": "./dist/style.css"
+    "./dist/style.css": "./dist/style.css"
   },
   "scripts": {
     "prepublishOnly": "npm run build",

@@ -1,5 +1,6 @@
 <script setup>
 import {computed, defineProps} from "vue";
+const baseUrl = window.location.origin ?? import.meta.env.BASE_URL
 
 const {size, name} = defineProps({
   size: {
@@ -12,7 +13,7 @@ const {size, name} = defineProps({
   },
 });
 
-const getIconPath = computed(() => `/assets/icons/${name}_.svg`);
+const getIconPath = computed(() => `${baseUrl}/node_modules/crypto-icons-eterex/dist/assets/icons/${String(name).toLowerCase()}_.svg`);
 
 </script>
 
