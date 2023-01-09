@@ -1,6 +1,6 @@
 {
   "name": "eterex-crypto-icons",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "type": "module",
   "description": "Eterex Crypto Icons Contains more than 420 digital currency icons",
   "repository": {
@@ -23,12 +23,12 @@
   "files": [
     "dist"
   ],
-  "main": "./dist/eterex-crypto-icons.umd.js",
-  "module": "./dist/eterex-crypto-icons.es.js",
+  "main": "./dist/eterex-crypto-icons.umd.cjs",
+  "module": "./dist/eterex-crypto-icons.js",
   "exports": {
     ".": {
-      "import": "./dist/eterex-crypto-icons.es.js",
-      "require": "./dist/eterex-crypto-icons.umd.js"
+      "import": "./dist/eterex-crypto-icons.js",
+      "require": "./dist/eterex-crypto-icons.umd.cjs"
     },
     "./dist/style.css": "./dist/style.css"
   },
