@@ -13,7 +13,7 @@ const {size, name} = defineProps({
   },
 });
 
-const getIconPath = computed(() => `${baseUrl}/node_modules/crypto-icons-eterex/dist/assets/icons/${String(name).toLowerCase()}_.svg`);
+const getIconPath = computed(() => `${baseUrl}/node_modules/eterex-crypto-icons/dist/assets/icons/${String(name).toLowerCase()}_.svg`);
 
 </script>
 

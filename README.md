@@ -10,26 +10,56 @@ Use the package manager [npm](https://www.npmjs.com/) to install foobar.
 npm i eterex-crypto-icons
 ```
 
-## Usage
+## Global Usage
 
-In src > main.js or main.ts :
+main.js or main.ts:
 ```javascript
-import EterexCryptoIcons from "eterex-crypto-icons"
+import CryptoIcon from "eterex-crypto-icons"
 import { createApp } from 'vue'
 import App from './App.vue'
 
 const app = createApp(App);
-app.use(EterexCryptoIcons);
+app.use(CryptoIcon);
 app.mount('#app')
 
 ```
 
-In each view or component :
+App.vue :
 ```html
 <template>
    <CryptoIcon name="btc" :size="35"/>
 </template>
+
+<script>
+
+    export default {
+        name: 'App',
+        components: {
+        }
+    }
+</script>
 ```
+
+## Single File Component Usage:
+
+```html
+<template>
+   <CryptoIcon name="btc" :size="35"/>
+</template>
+
+<script>
+    import {CryptoIcon} from "eterex-crypto-icons"
+    export default {
+        name: 'App',
+        components: {
+            CryptoIcon
+        }
+    }
+</script>
+```
+
+
+
 ## Props:
 ```javascript
 name:
